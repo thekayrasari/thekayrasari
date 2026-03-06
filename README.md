@@ -1,4 +1,4 @@
-# Hi, I'm Kayra 👋
+# Hi, I'm Kayra
 
 **Aspiring Aerospace Engineer · Physics Researcher · Linux Kernel Hacker**
 
@@ -6,7 +6,7 @@ I'm a high school student, building things at the intersection of engineering, p
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -34,20 +34,22 @@ I'm a high school student, building things at the intersection of engineering, p
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [excalibur](https://github.com/thekayrasari/excalibur) — Linux Kernel WMI Driver
 Custom Linux kernel module enabling hardware feature controls on Excalibur laptops via the WMI interface. Low-level C, published open-source.
 
-### [e6b](https://github.com/thekayrasari/e6b) — E6B Flight Computer
-A web-based E6B flight computer built in JavaScript for aviation calculations.
-
 ### [naca0012-cfd](https://github.com/thekayrasari/naca0012-cfd) — CFD Simulation
 Computational fluid dynamics simulation of a NACA 0012 airfoil.
 
+### [e6b](https://github.com/thekayrasari/e6b) — E6B Flight Computer
+A web-based E6B flight computer built in JavaScript for aviation calculations.
+
+
+
 ---
 
-## 🔬 Interests
+## Interests
 
 - Aerospace & flight dynamics
 - Particle physics & experimental design
@@ -57,10 +59,10 @@ Computational fluid dynamics simulation of a NACA 0012 airfoil.
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/thekayrasari)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/thekayrasari)
 [![Website](https://img.shields.io/badge/Website-000000?logo=github&logoColor=white)](https://thekayrasari.github.io)
 
-Always open to PRs, issues, or just nerdy convos! 🛸
+Always open to PRs, issues, or just nerdy convos!
