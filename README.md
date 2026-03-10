@@ -1,6 +1,6 @@
 # Hi, I'm Kayra
 
-**Aspiring Aerospace Engineer · Physics Researcher · Linux Kernel Hacker**
+**Aspiring Aerospace Engineer**
 
 I'm a high school student, building things at the intersection of engineering, physics, and low-level software. I work on everything from Linux kernel modules and path-planning algorithms to particle physics simulations and CFD.
 
