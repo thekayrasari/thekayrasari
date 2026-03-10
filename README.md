@@ -41,10 +41,4 @@ I'm a high school student, building things at the intersection of engineering, p
 
 ---
 
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/thekayrasari)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/thekayrasari)
-[![Website](https://img.shields.io/badge/Website-000000?logo=github&logoColor=white)](https://thekayrasari.github.io)
-
 Always open to PRs, issues, or just nerdy convos!
